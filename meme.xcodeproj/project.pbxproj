@@ -17,6 +17,7 @@
 		C7AC6A8D2A83D987002C1266 /* MemoStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7AC6A8C2A83D987002C1266 /* MemoStore.swift */; };
 		C7AC6A902A83E177002C1266 /* MemoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7AC6A8F2A83E177002C1266 /* MemoCell.swift */; };
 		C7AC6A922A83E2B8002C1266 /* ComposeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7AC6A912A83E2B8002C1266 /* ComposeView.swift */; };
+		C7AC6A942A83E9E2002C1266 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7AC6A932A83E9E2002C1266 /* DetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		C7AC6A8C2A83D987002C1266 /* MemoStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoStore.swift; sourceTree = "<group>"; };
 		C7AC6A8F2A83E177002C1266 /* MemoCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoCell.swift; sourceTree = "<group>"; };
 		C7AC6A912A83E2B8002C1266 /* ComposeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComposeView.swift; sourceTree = "<group>"; };
+		C7AC6A932A83E9E2002C1266 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 				C7AC6A862A83D765002C1266 /* MainListView.swift */,
 				C7AC6A8F2A83E177002C1266 /* MemoCell.swift */,
 				C7AC6A912A83E2B8002C1266 /* ComposeView.swift */,
+				C7AC6A932A83E9E2002C1266 /* DetailView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -182,6 +185,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C7AC6A902A83E177002C1266 /* MemoCell.swift in Sources */,
+				C7AC6A942A83E9E2002C1266 /* DetailView.swift in Sources */,
 				C7AC6A732A83D6B6002C1266 /* memeApp.swift in Sources */,
 				C7AC6A8D2A83D987002C1266 /* MemoStore.swift in Sources */,
 				C7AC6A872A83D765002C1266 /* MainListView.swift in Sources */,
